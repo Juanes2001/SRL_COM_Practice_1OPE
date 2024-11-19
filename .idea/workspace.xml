@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d023a687-a44e-4a1a-b66a-6c11c4adc063" name="Changes" comment="Third Commit" />
+    <list default="true" id="d023a687-a44e-4a1a-b66a-6c11c4adc063" name="Changes" comment="last Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Juanes2001/SRL_COM_Practice_1OPE.git",
+    "accountId": "8e868b2d-59db-4ea9-8890-d2250dbe0e66"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -33,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.practice_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/juane/OneDrive/Desktop/Pycharm_Projects/SRL_COM",
@@ -71,11 +78,39 @@
       <option name="project" value="LOCAL" />
       <updated>1731981423694</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="last Commit">
+      <option name="closed" value="true" />
+      <created>1731981767125</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731981767125</updated>
+    </task>
+    <task id="LOCAL-00004" summary="last Commit">
+      <option name="closed" value="true" />
+      <created>1731981815660</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731981815660</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Third Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third Commit" />
+    <MESSAGE value="last Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="last Commit" />
   </component>
 </project>
