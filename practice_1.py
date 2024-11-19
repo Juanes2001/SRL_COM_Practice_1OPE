@@ -335,5 +335,3 @@ if __name__ == "__main__":
     frame = SerialInterface()
     frame.show()
     sys.exit(app.exec_())
-
-#holaaa
